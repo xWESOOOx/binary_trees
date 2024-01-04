@@ -40,4 +40,3 @@ typedef struct levelorder_queue_s
 
 /* Printing helper function */
 void binary_tree_print(const binary_tree_t *);
-

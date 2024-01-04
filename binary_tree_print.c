@@ -41,4 +41,3 @@ static int print_t(const binary_tree_t *tree, int offset, int depth, char **s)
 		s[depth - 1][offset + left + width / 2] = '.';
 	}
 	return (left + width + right);
-
